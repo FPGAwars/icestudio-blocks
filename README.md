@@ -1,0 +1,3 @@
+# icestudio-blocks
+
+Index of Icestudio resources: blocks, collections, icons, examples...
