@@ -1,0 +1,18 @@
+{
+  "name": "Icestudio blocks",
+  "version": "0.1.0",
+  "description": "Repositorio de bloques para Icestudio",
+  "keywords": "Tutorial,Jedi Academy, bloques",
+  "license": "GPL-2.0",
+  "authors": [{
+    "name": "FPGAwars",
+    "email": "",
+    "url": "http://fpgawars.github.io/"
+  }],
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "branch": "master",
+    "url": "https://github.com/FPGAwars/icestudio-blocks"
+  }
+}
