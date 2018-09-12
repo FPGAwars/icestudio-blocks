@@ -185,7 +185,7 @@
           "id": "a164e5d1-95c9-4d78-80b6-8dcba43f6b1f",
           "type": "basic.output",
           "data": {
-            "name": "o7",
+            "name": "o1",
             "pins": [
               {
                 "index": "0",
@@ -204,7 +204,7 @@
           "id": "4dbf4b0d-a98b-489d-b775-264449173413",
           "type": "basic.output",
           "data": {
-            "name": "o1",
+            "name": "o0",
             "pins": [
               {
                 "index": "0",
