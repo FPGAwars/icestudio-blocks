@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="162.96091mm"
-   height="96.976273mm"
-   viewBox="0 0 162.96091 96.976273"
+   height="87.716927mm"
+   viewBox="0 0 162.96091 87.716927"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (unknown)"
@@ -657,15 +657,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="420.15768"
-     inkscape:cy="323.82384"
+     inkscape:cx="-81.270892"
+     inkscape:cy="323.82385"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer4"
      showgrid="false"
-     inkscape:window-width="1853"
-     inkscape:window-height="1025"
-     inkscape:window-x="67"
-     inkscape:window-y="27"
+     inkscape:window-width="1280"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
      fit-margin-top="0"
@@ -688,7 +688,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="block"
-     transform="translate(-23.746653,-46.22066)">
+     transform="translate(-23.746653,-55.480011)">
     <rect
        style="opacity:1;fill:#c0dfeb;fill-opacity:1;stroke:#777777;stroke-width:1.43441415;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect861"
@@ -724,11 +724,6 @@
        style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:2.08673143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 53.768961,121.40235 h 7.275505"
        id="path865-3-6-1"
-       inkscape:connector-curvature="0" />
-    <path
-       style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:2.08673143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 104.39281,46.281441 V 57.042045"
-       id="path865-3-6-1-2"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
@@ -792,17 +787,12 @@
          x="39.671482"
          id="tspan984-9-6-2-1"
          sodipodi:role="line">pin</tspan></text>
-    <path
-       style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:2.08673143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 104.35668,56.970667 V 46.22066"
-       id="path865-3-6-1-55"
-       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(-23.746653,-46.22066)">
+     transform="translate(-23.746653,-55.480011)">
     <g
        id="g1022"
        transform="translate(69.349369,66.90305)"
