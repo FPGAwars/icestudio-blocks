@@ -1563,20 +1563,23 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
-     inkscape:cx="900.94301"
-     inkscape:cy="721.96856"
+     inkscape:cx="956.47541"
+     inkscape:cy="775.53651"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1853"
-     inkscape:window-height="1025"
-     inkscape:window-x="67"
-     inkscape:window-y="27"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -1585,7 +1588,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1626,12 +1629,12 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:26.94030762px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#777777;fill-opacity:1;stroke:none;stroke-width:0.47807449"
        x="-97.371994"
-       y="125.48717"
+       y="56.004211"
        id="text986-8"><tspan
          sodipodi:role="line"
          id="tspan984-5"
          x="-97.371994"
-         y="125.48717"
+         y="56.004211"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#777777;stroke-width:0.47807449">SS</tspan></text>
     <path
        style="display:inline;fill:none;fill-opacity:1;stroke:#58595a;stroke-width:1.43422365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1682,19 +1685,19 @@
     <path
        inkscape:connector-curvature="0"
        id="path865-35"
-       d="m -110.02671,75.120037 h 16.964387"
+       d="m -110.02671,135.25568 h 16.964387"
        style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        transform="scale(0.99989751,1.0001025)"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:25.87408829px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#777777;fill-opacity:1;stroke:none;stroke-width:0.47807452"
        x="-100.4679"
-       y="56.920292"
+       y="124.53255"
        id="text986-8-6-3"><tspan
          sodipodi:role="line"
          id="tspan984-5-0-6"
          x="-100.4679"
-         y="56.920292"
+         y="124.53255"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#777777;stroke-width:0.47807452">data[7:0]</tspan></text>
     <path
        inkscape:connector-curvature="0"
@@ -1704,7 +1707,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path865-2-3-5-6"
-       d="m -109.82775,136.0223 h 17.189272"
+       d="m -109.82775,74.015768 h 17.189272"
        style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:3.60998487;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
@@ -1789,64 +1792,49 @@
        transform="matrix(0.48389011,0,0,0.48664099,-274.29559,-51.193928)">
       <g
          transform="translate(-41.879547,748.25139)"
-         id="g3">
-</g>
+         id="g3" />
       <g
          transform="translate(-41.879547,748.25139)"
-         id="g5">
-</g>
+         id="g5" />
       <g
          transform="translate(-41.879547,748.25139)"
-         id="g7">
-</g>
+         id="g7" />
       <g
          transform="translate(-41.879547,748.25139)"
-         id="g9">
-</g>
+         id="g9" />
       <g
          transform="translate(-41.879547,748.25139)"
-         id="g11">
-</g>
+         id="g11" />
       <g
          transform="translate(-41.879547,748.25139)"
-         id="g13">
-</g>
+         id="g13" />
       <g
          transform="translate(-41.879547,748.25139)"
-         id="g15">
-</g>
+         id="g15" />
       <g
          transform="translate(-41.879547,748.25139)"
-         id="g17">
-</g>
+         id="g17" />
       <g
          transform="translate(-41.879547,748.25139)"
-         id="g19">
-</g>
+         id="g19" />
       <g
          transform="translate(-41.879547,748.25139)"
-         id="g21">
-</g>
+         id="g21" />
       <g
          transform="translate(-41.879547,748.25139)"
-         id="g23">
-</g>
+         id="g23" />
       <g
          transform="translate(-41.879547,748.25139)"
-         id="g25">
-</g>
+         id="g25" />
       <g
          transform="translate(-41.879547,748.25139)"
-         id="g27">
-</g>
+         id="g27" />
       <g
          transform="translate(-41.879547,748.25139)"
-         id="g29">
-</g>
+         id="g29" />
       <g
          transform="translate(-41.879547,748.25139)"
-         id="g31">
-</g>
+         id="g31" />
       <text
          id="text855"
          y="129.69664"
